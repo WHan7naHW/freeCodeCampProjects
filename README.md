@@ -16,3 +16,4 @@ Learning journey and codes on freeCodeCamp.
 3. [Learn SQL by Building a Student Database: Part 1](C05/students.sql)
 4. [Learn SQL by Building a Student Database: Part 2](C05/student_info.sh)
 5. [Build a World Cup Database - Certification Project](C05/WorldCup)
+6. 
