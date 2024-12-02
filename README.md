@@ -19,10 +19,12 @@ Learning journey and codes on freeCodeCamp.
 
 7. [Build a World Cup Database - Certification Project](C05/WorldCup)
 
+8. [Learn Advanced Bash by Building a Kitty Ipsum Translator](https://github.com/freeCodeCamp/learn-advanced-bash-by-building-a-kitty-ipsum-translator)
+
 9. [Learn Bash and SQL by Building a Bike Rental Shop](C05/bike-shop.sh)
 
 10. Build a Salon Appointment Scheduler - Certification Project
-   - [salon.sh](C05/CertificationProjects/salon.sh)
-   - [salon.sql](C05/CertificationProjects/salon.sql)
+      - [salon.sh](C05/CertificationProjects/salon.sh)
+      - [salon.sql](C05/CertificationProjects/salon.sql)
 
 11. 
