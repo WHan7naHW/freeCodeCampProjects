@@ -29,4 +29,6 @@ Learning journey and codes on freeCodeCamp.
 
 11. [Learn Nano by Building a Castle](https://github.com/freeCodeCamp/learn-nano-by-building-a-castle)
 
-12. 
+12. [Learn Git by Building an SQL Reference Object](https://github.com/freeCodeCamp/learn-git-by-building-an-sql-reference-object/tree/main)
+
+13. 
