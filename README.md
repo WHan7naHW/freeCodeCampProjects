@@ -14,10 +14,15 @@ Learning journey and codes on freeCodeCamp.
    - [five.sh](C05/five.sh)
 
 5. [Learn SQL by Building a Student Database: Part 1](C05/students.sql)
+
 6. [Learn SQL by Building a Student Database: Part 2](C05/student_info.sh)
+
 7. [Build a World Cup Database - Certification Project](C05/WorldCup)
+
 9. [Learn Bash and SQL by Building a Bike Rental Shop](C05/bike-shop.sh)
+
 10. Build a Salon Appointment Scheduler - Certification Project
    - [salon.sh](C05/CertificationProjects/salon.sh)
    - [salon.sql](C05/CertificationProjects/salon.sql)
+
 11. 
