@@ -27,4 +27,6 @@ Learning journey and codes on freeCodeCamp.
       - [salon.sh](C05/CertificationProjects/salon.sh)
       - [salon.sql](C05/CertificationProjects/salon.sql)
 
-11. 
+11. [Learn Nano by Building a Castle](https://github.com/freeCodeCamp/learn-nano-by-building-a-castle)
+
+12. 
