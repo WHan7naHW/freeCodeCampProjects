@@ -31,4 +31,8 @@ Learning journey and codes on freeCodeCamp.
 
 12. [Learn Git by Building an SQL Reference Object](https://github.com/freeCodeCamp/learn-git-by-building-an-sql-reference-object/tree/main)
 
-13. 
+13. [Build a Periodic Table Database](https://github.com/freeCodeCamp/learn-periodic-table-database)
+      - [periodic_table.sql](C05/CertificationProjects/periodic_table.sql)
+      - [element.sh](C05/CertificationProjects/element.sh)
+
+14. 
