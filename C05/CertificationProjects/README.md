@@ -1,6 +1,7 @@
 # [Certification 05 - Relational Database](https://www.freecodecamp.org/certification/WHan7naHW/relational-database-v8)
 
-5 Certification Projects codes on freeCodeCamp.
+Five Certification Projects codes on freeCodeCamp:
+
 
 1. Build a Celestial Bodies Database
       - [universe.sql](C05/CertificationProjects/universe.sql)
