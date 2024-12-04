@@ -1,4 +1,10 @@
-# [Certification 05 - Relational Database](https://www.freecodecamp.org/learn/relational-database/)
+# [Certification 05 - Relational Database](https://www.freecodecamp.org/certification/WHan7naHW/relational-database-v8)
+
+Learning journey and codes on [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/).
+
+1. Learn Bash by Building a Boilerplate
+
+2. Learn Relational Databases by Building a Mario Database
 
 3. [Build a Celestial Bodies Database - Certification Project](CertificationProjects/universe.sql)
 
