@@ -24,7 +24,7 @@ Front End Development Libraries Certification
 4
 Data Visualization Certification
 
-5. [Relational Database Certification](C05) [🏛️](https://www.freecodecamp.org/certification/WHan7naHW/relational-database-v8)
+5. [Certificate 05 - Relational Database Certification](C05) [🏛️](https://www.freecodecamp.org/certification/WHan7naHW/relational-database-v8)
 
     - __Programming and Scripting:__ Python, HTML, JavaScript, Bash scripting
     - __Database Management:__ PostgreSQL, SQL (relational database design and usage)
