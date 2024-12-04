@@ -3,6 +3,8 @@ The followings are Certifications, Certification Projects and technical skills g
 
 * a detailed version including all projects and codes will be shown [here](https://github.com/WHan7naHW/FreeCodeCamp/tree/main)
 
+## Certification Projects & Skills
+
 1. [Certificate 01 - Responsive Web Design](C01) 
   [🌍](https://www.freecodecamp.org/certification/WHan7naHW/responsive-web-design)
 
