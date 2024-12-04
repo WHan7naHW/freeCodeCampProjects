@@ -2,6 +2,8 @@
 
 Learning journey and codes on [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/).
 
+* Detailed projects and codes will be shown [here](https://github.com/WHan7naHW/FreeCodeCamp/tree/main/Certificate05) after I finish all.
+
 1. Learn Bash by Building a Boilerplate
 
 2. Learn Relational Databases by Building a Mario Database
