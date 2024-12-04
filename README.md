@@ -2,8 +2,8 @@
 Learning journey and codes on Free Code Camp.
 
 
-1. Certificate 01 - Responsive Web Design 
-  [🕸️](https://www.freecodecamp.org/certification/WHan7naHW/responsive-web-design)
+1. [Certificate 01 - Responsive Web Design](C01) 
+  [🌍](https://www.freecodecamp.org/certification/WHan7naHW/responsive-web-design)
 
     - __Web Development Language:__ HTML, CSS
     - __Responsive Design:__ Flexbox, CSS Grid  
@@ -11,7 +11,7 @@ Learning journey and codes on Free Code Camp.
     - __Web Accessibility:__ Accessible web design
     - __Project Development:__ Photo app, penguin project, quiz site, photo gallery, magazine layout
 
-2. Certificate 02 - JavaScript Algorithms and Data Structures
+2. [Certificate 02 - JavaScript Algorithms and Data Structures](C02)
 
     - __Web Development Languages:__ HTML, CSS, JavaScript
     - __JavaScript Fundamentals:__ Variables, Arrays, Objects, Loops, Functions, DOM manipulation
@@ -25,7 +25,7 @@ Front End Development Libraries Certification
 4
 Data Visualization Certification
 
-5. [Relational Database Certification](C05) [🖥️](https://www.freecodecamp.org/certification/WHan7naHW/relational-database-v8)
+5. [Relational Database Certification](C05) [🏛️](https://www.freecodecamp.org/certification/WHan7naHW/relational-database-v8)
 
     - __Programming and Scripting:__ Python, HTML, JavaScript, Bash scripting
     - __Database Management:__ PostgreSQL, SQL (relational database design and usage)
