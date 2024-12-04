@@ -1,5 +1,5 @@
 # freeCodeCamp Certifications
-Learning journey and codes on [freeCodeCamp](https://www.freecodecamp.org/learn).
+Certifications, Certification Projects and technical skills on [freeCodeCamp](https://www.freecodecamp.org/learn).
 
 * a detailed version including all projects and codes will be shown [here](https://github.com/WHan7naHW/FreeCodeCamp/tree/main)
 
