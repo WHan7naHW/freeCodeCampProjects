@@ -3,7 +3,8 @@ Learning journey and codes on freeCodeCamp.
 
 
 ## [Certification 05 - Relational Database](https://www.freecodecamp.org/learn/relational-database/)
-
+1. Learn Bash by Building a Boilerplate
+2. Learn Relational Databases by Building a Mario Database
 3. [Build a Celestial Bodies Database - Certification Project](C05/CertificationProjects/universe.sql)
 
 4. Learn Bash Scripting by Building Five Programs
@@ -19,7 +20,7 @@ Learning journey and codes on freeCodeCamp.
 
 7. [Build a World Cup Database - Certification Project](C05/WorldCup)
 
-8. [Learn Advanced Bash by Building a Kitty Ipsum Translator](https://github.com/freeCodeCamp/learn-advanced-bash-by-building-a-kitty-ipsum-translator)
+8. Learn Advanced Bash by Building a Kitty Ipsum Translator
 
 9. [Learn Bash and SQL by Building a Bike Rental Shop](C05/bike-shop.sh)
 
@@ -27,12 +28,14 @@ Learning journey and codes on freeCodeCamp.
       - [salon.sh](C05/CertificationProjects/salon.sh)
       - [salon.sql](C05/CertificationProjects/salon.sql)
 
-11. [Learn Nano by Building a Castle](https://github.com/freeCodeCamp/learn-nano-by-building-a-castle)
+11. Learn Nano by Building a Castle
 
-12. [Learn Git by Building an SQL Reference Object](https://github.com/freeCodeCamp/learn-git-by-building-an-sql-reference-object/tree/main)
+12. Learn Git by Building an SQL Reference Object
 
-13. [Build a Periodic Table Database](https://github.com/freeCodeCamp/learn-periodic-table-database)
+13. Build a Periodic Table Database - Certification Project
       - [periodic_table.sql](C05/CertificationProjects/periodic_table.sql)
       - [element.sh](C05/CertificationProjects/element.sh)
 
-14. 
+14. Build a Number Guessing Game - Certification Project
+   - [number_guess.sh](C05/CertificationProjects/number_guess.sh)
+   - [number_guess.sql](C05/CertificationProjects/number_guess.sql)
