@@ -6,7 +6,7 @@ Five Certification Projects codes on freeCodeCamp:
 1. Build a Celestial Bodies Database
       - [universe.sql](C05/CertificationProjects/universe.sql)
 
-2. [Build a World Cup Database](C05/WorldCup)
+2. [Build a World Cup Database](https://github.com/WHan7naHW/freeCodeCampProjects/tree/main/C05/WorldCup)
 
 3. Build a Salon Appointment Scheduler
       - [salon.sh](C05/CertificationProjects/salon.sh)
