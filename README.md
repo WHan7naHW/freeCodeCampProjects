@@ -27,12 +27,12 @@ Data Visualization Certification
 
 5. [Relational Database Certification](C05) [🖥️](https://www.freecodecamp.org/certification/WHan7naHW/relational-database-v8)
 
-  - __Programming and Scripting:__ Python, HTML, JavaScript, Bash scripting
-  - __Database Management:__ PostgreSQL, SQL (relational database design and usage)
-  - __Version Control:__ Git (repository management, collaboration, and version control)
-  - __Tools and IDEs:__ Visual Studio Code (VS Code)
-  - __Command Line Proficiency:__ Linux/Unix terminal for file system navigation, manipulation, and advanced usage
-  - __Project Development:__ Practical projects in database management, scripting, and version control
+    - __Programming and Scripting:__ Python, HTML, JavaScript, Bash scripting
+    - __Database Management:__ PostgreSQL, SQL (relational database design and usage)
+    - __Version Control:__ Git (repository management, collaboration, and version control)
+    - __Tools and IDEs:__ Visual Studio Code (VS Code)
+    - __Command Line Proficiency:__ Linux/Unix terminal for file system navigation, manipulation, and advanced usage
+    - __Project Development:__ Practical projects in database management, scripting, and version control
 
 6
 Back End Development and APIs Certification
@@ -42,13 +42,13 @@ Quality Assurance Certification
 
 8. [Certificate 08 - Scientific Computing with Python (Beta)](C08) [👩‍🚀](https://www.freecodecamp.org/certification/WHan7naHW/scientific-computing-with-python-v7)
 
-  - __Programming Languages:__ Python  
-  - __Data Structures:__ Lists, Tuples, Dictionaries, Sets  
-  - __Algorithms:__ Sorting, Searching, Algorithm design  
-  - __Object-Oriented Programming (OOP):__ Classes, Objects, Inheritance  
-  - __Scientific Computing:__ NumPy, SciPy  
-  - __Data Analysis & Visualization:__ Matplotlib, Pandas  
-  - __Problem-Solving:__ Algorithmic thinking and optimization techniques
+    - __Programming Languages:__ Python  
+    - __Data Structures:__ Lists, Tuples, Dictionaries, Sets  
+    - __Algorithms:__ Sorting, Searching, Algorithm design  
+    - __Object-Oriented Programming (OOP):__ Classes, Objects, Inheritance  
+    - __Scientific Computing:__ NumPy, SciPy  
+    - __Data Analysis & Visualization:__ Matplotlib, Pandas  
+    - __Problem-Solving:__ Algorithmic thinking and optimization techniques
 
 9
 Data Analysis with Python Certification
