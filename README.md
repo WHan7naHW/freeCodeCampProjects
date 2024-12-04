@@ -37,5 +37,5 @@ Learning journey and codes on freeCodeCamp.
       - [element.sh](C05/CertificationProjects/element.sh)
 
 14. Build a Number Guessing Game - Certification Project
-   - [number_guess.sh](C05/CertificationProjects/number_guess.sh)
-   - [number_guess.sql](C05/CertificationProjects/number_guess.sql)
+      - [number_guess.sh](C05/CertificationProjects/number_guess.sh)
+      - [number_guess.sql](C05/CertificationProjects/number_guess.sql)
