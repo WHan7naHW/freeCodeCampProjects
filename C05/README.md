@@ -39,4 +39,4 @@ Learning journey and codes on [freeCodeCamp](https://www.freecodecamp.org/learn/
       - [periodic_table.sql](CertificationProjects/periodic_table.sql)
       - [element.sh](CertificationProjects/element.sh)
 
-14. 
+14. [Build a Number Guessing Game](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game)
