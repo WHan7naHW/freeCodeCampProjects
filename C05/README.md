@@ -40,3 +40,5 @@ Learning journey and codes on [freeCodeCamp](https://www.freecodecamp.org/learn/
       - [element.sh](CertificationProjects/element.sh)
 
 14. [Build a Number Guessing Game](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game)
+      - [number_guess.sql](C05/CertificationProjects/number_guess.sql)
+      - [number_guess.sh](C05/CertificationProjects/number_guess.sh)
