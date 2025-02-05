@@ -67,8 +67,7 @@ Quality Assurance Certification
     - __Data Analysis & Visualization:__ Matplotlib, Pandas  
     - __Problem-Solving:__ Algorithmic thinking and optimization techniques
 
-9
-Data Analysis with Python Certification
+9. [Data Analysis with Python Certification](C09)
 
 10
 Information Security Certification
