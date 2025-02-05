@@ -20,10 +20,15 @@ let exercises = [];
 // Create a new user
 app.post('/api/users', (req, res) => {
   const username = req.body.username;
+
+  if (!username) {
+    return res.json({ error: 'Username is required' });
+  }
+
   const _id = uuidv4();
   const user = { username, _id };
-  user.push(user);
-  req.json(user);
+  users.push(user);
+  res.json(user);
 });
 
 // Get all users
@@ -86,4 +91,3 @@ app.get('/api/users/:_id/logs', (req, res) => {
 const listener = app.listen(process.env.PORT || 3000, () => {
   console.log('Your app is listening on port ' + listener.address().port)
 })
-
