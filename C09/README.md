@@ -1,6 +1,7 @@
 # [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-- the full path to the projects is archived [here](https://github.com/WHan7naHW/FreeCodeCamp/tree/main/Certificate09).
+- the full path to the projects is archived [here](https://github.com/WHan7naHW/FreeCodeCamp/tree/main/Certificate09);
+- [Google Colab](https://drive.google.com/drive/folders/1G__s2ZeFsC5MyPGbRCQAaA2nAZFWHLsR).
 
 ## Certificate Projects
 
