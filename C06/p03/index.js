@@ -42,7 +42,7 @@ app.post('/api/shorturl', (req, res) => {
 });
 
 app.get('/api/shorturl/:shorturl', (req, res) => {
-  let shortUrl = parseInt(req.params.shortrurl);
+  let shortUrl = parseInt(req.params.shorturl);
   let originalUrl = urlDatabase[shortUrl];
 
   if (originalUrl) {
