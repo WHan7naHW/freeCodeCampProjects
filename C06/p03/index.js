@@ -4,8 +4,7 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 const dns = require('dns');
 const urlParser = require('url');
-const req = require('express/lib/request');
-const res = require('express/lib/response');
+const { error } = require('console');
 const app = express();
 
 // Basic Configuration
@@ -23,20 +22,20 @@ let urlDatabase = {};
 let counter = 1;
 
 // API endpoint
-app.get('/api/shorturl', (req, res) => {
+app.post('/api/shorturl', (req, res) => {
   let originalUrl = req.body.url;
   let hostname = urlParser.parse(originalUrl).hostname;
 
   if (!/^https?:\/\//.test(originalUrl)) {
-    return res.json({ error: 'Invalide URL' });
+    return res.json({ error: 'invalid url' });
   }
 
   dns.lookup(hostname, (err) => {
     if (err) {
-      return res.json({ err: 'Invalide URL' });
+      return res.json({ error: 'invalid url' });
     }
 
-    let shortUrl = counter ++;
+    let shortUrl = counter++;
     urlDatabase[shortUrl] = originalUrl;
     res.json({ original_url: originalUrl, short_url: shortUrl });
   });
@@ -47,9 +46,9 @@ app.get('/api/shorturl/:shorturl', (req, res) => {
   let originalUrl = urlDatabase[shortUrl];
 
   if (originalUrl) {
-    res.redirect(originalUrl);
+    return res.redirect(originalUrl);
   } else {
-    res.json({ error: 'No short URL found' });
+    return res.json({ error: 'No short URL found' });
   }
 });
 
