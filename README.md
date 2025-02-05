@@ -37,8 +37,21 @@ Data Visualization Certification
     - __Command Line Proficiency:__ Linux/Unix terminal for file system navigation, manipulation, and advanced usage
     - __Project Development:__ Practical projects in database management, scripting, and version control
 
-6. [Back End Development and APIs Certification](C06)
+6. [Back End Development and APIs Certification](C06) [⌨️](https://www.freecodecamp.org/certification/WHan7naHW/back-end-development-and-apis)
 
+    - __Node.js & npm:__ Managing dependencies, creating and running server-side applications.  
+    - __Express.js:__ Building RESTful APIs, handling routes, middleware, and request/response cycles.  
+    - __MongoDB & Mongoose:__ NoSQL database management, schema design, CRUD operations.  
+    - __Microservices Architecture:__ Designing and developing modular, scalable services.  
+    - __API Development:__ Creating and consuming RESTful APIs, handling HTTP requests.  
+    - __Authentication & Security:__ Implementing best practices for secure API development.  
+    - __Data Parsing & Storage:__ Working with JSON data, file uploads, and metadata extraction.  
+    - __Project-Based Experience:__ Built five real-world microservices, including:  
+       - __Timestamp Microservice:__ Handling date/time conversions.  
+       - __Request Header Parser Microservice:__ Retrieving client information.  
+       - __URL Shortener Microservice:__ Generating and managing shortened URLs.  
+       - __Exercise Tracker:__ Storing and retrieving user activity data.  
+       - __File Metadata Microservice:__ Handling file uploads and metadata extraction. 
 
 
 7
