@@ -37,8 +37,9 @@ Data Visualization Certification
     - __Command Line Proficiency:__ Linux/Unix terminal for file system navigation, manipulation, and advanced usage
     - __Project Development:__ Practical projects in database management, scripting, and version control
 
-6
-Back End Development and APIs Certification
+6. [Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+
+
 
 7
 Quality Assurance Certification
