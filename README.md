@@ -81,10 +81,8 @@ Quality Assurance Certification
 10
 Information Security Certification
 
-11
-Machine Learning with Python Certification
+11. [Machine Learning with Python Certification](C11)
 
 12
 College Algebra with Python Certification
 
-13. [Certified Full Stack Developer Curriculum](C13)
