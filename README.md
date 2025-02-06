@@ -67,7 +67,16 @@ Quality Assurance Certification
     - __Data Analysis & Visualization:__ Matplotlib, Pandas  
     - __Problem-Solving:__ Algorithmic thinking and optimization techniques
 
-9. [Data Analysis with Python Certification](C09)
+9. [Data Analysis with Python Certification](C09) [🎪](https://www.freecodecamp.org/certification/WHan7naHW/data-analysis-with-python-v7)
+
+    - __Data Analysis Fundamentals:__ Data structures, CSV, SQL, and Excel processing  
+    - __Python for Data Analysis:__ Python basics, Jupyter Notebooks  
+    - __NumPy:__ Array manipulation, indexing, slicing, reshaping, statistics  
+    - __Pandas:__ DataFrames, cleaning, transformation, grouping, merging  
+    - __Data Visualization:__ Matplotlib, Seaborn advanced visualizations  
+    - __Hands-on Projects:__ Mean-Variance-Standard Deviation Calculator, Demographic Data Analyzer, Medical Data Visualizer, Page View Time Series Visualizer, Sea Level Predictor  
+    - __Tools & Libraries:__ Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
 
 10
 Information Security Certification
