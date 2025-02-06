@@ -86,3 +86,5 @@ Machine Learning with Python Certification
 
 12
 College Algebra with Python Certification
+
+13. [Certified Full Stack Developer Curriculum](C13)
